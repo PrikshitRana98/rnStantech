@@ -140,7 +140,7 @@ const MapScreen = () => {
                         <MapViewDirections
                             origin={{ latitude: userLoc.latitude, longitude: userLoc.longitude }}
                             destination={{ latitude: destination.latitude, longitude: destination.longitude }}
-                            apikey={"AIzaSyD3OB18d519XPRpnpUG3Qwg1KR-Wem7h98"}
+                            apikey={"AIzaSyD3OB18d519XPRpnpUG3Qwg1KR-XXXX"}
                             language='en'
                             strokeWidth={4}
                             strokeColor="black"
